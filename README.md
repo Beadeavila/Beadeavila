@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
 </div>  
  
-### <div align="center">I'm Beatriz, a junior full-stack developer </div> 
+### <div align="center">I'm Beatriz, a Front End full-stack developer </div> 
   
 <br/>  
 
